@@ -64,6 +64,15 @@ done
 
 Таким образом, задача решена.
 
+Примеры выполнения скрипта:
+
+![image](https://github.com/user-attachments/assets/c22b53e3-c39c-429a-8d64-910a0c5c2776)
+
+![image](https://github.com/user-attachments/assets/9952b036-dfb4-40ce-b853-9ad64a2f8201)
+
+![image](https://github.com/user-attachments/assets/876c2673-936b-42e1-81aa-0482cbc56ee0)
+
+
 ## Вывод
 
-Я применил на практике  
+Я применил на практике знания про использование в командном интерпретаторе ```bash``` циклов, массивов, условий и переменных.
